@@ -21,9 +21,11 @@
 <p align="left">
 <h3 align="left">My Portfolio:</h3>
 <p align="left">
- 
-  • 🔗 <a href="https://rimjhim-ag.github.io/" target="_blank">Personal Portfolio</a> – My own portfolio website to highlight skills, projects, and contact info.
+  <a href="https://rimjhim-ag.github.io/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
+
 
 
 <a href="https://linkedin.com/in/rimjhim-agrawal23000" target="blank">
