@@ -15,16 +15,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ON8FhVn_69XBhIXRk6IdhQiWEaUJbIdA/view?usp=sharing]
 
+- 🔗   Check Out my portfolio : [https://portfolio-rimjhim.vercel.app/]
+
 - ⚡ Fun fact **I have a keen eye for detail, a problem-solving mindset, and a knack for turning ideas into reality with code! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<h3 align="left">My Portfolio:</h3>
-<p align="left">
-  <a href="https://rimjhim-ag.github.io/" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30" width="40" />
-  </a>
-</p>
+
 
 
 
