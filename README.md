@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdnajh0ODg5NnNvbGhocXI5NW9vdnMycHZlbHhkNmxwdGhyZjI2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
-- 🌱 I’m currently learning **C, Embedded System**
+- 🌱 I’m currently learning **Next.js , TypeScript**
 
 - 📝 I write articles on [https://blogbae3blogs.blogspot.com/](https://blogbae3blogs.blogspot.com/)
 
@@ -13,12 +13,19 @@
 
 - 📫 How to reach me **arimjhim250@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-qyZR42sqoV4bwWXpMVVBFO4aZLHGFc5/view?usp=drive_link](https://drive.google.com/file/d/1-qyZR42sqoV4bwWXpMVVBFO4aZLHGFc5/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ON8FhVn_69XBhIXRk6IdhQiWEaUJbIdA/view?usp=sharing]
 
 - ⚡ Fun fact **I have a keen eye for detail, a problem-solving mindset, and a knack for turning ideas into reality with code! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<h3 align="left">My Portfolio:</h3>
+<p align="left">
+ 
+  • 🔗 <a href="https://rimjhim-ag.github.io/" target="_blank">Personal Portfolio</a> – My own portfolio website to highlight skills, projects, and contact info.
+</p>
+
+
 <a href="https://linkedin.com/in/rimjhim-agrawal23000" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
