@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript**  
 - 📝 I write blogs on [My Blog](https://blogbae3blogs.blogspot.com/)  
-- 💬 Ask me about **React, Node.js, JavaScript**  
+- 💬 Ask me about **React, Node.js, JavaScript, HTML & CSS**  
 - 📫 Reach me at **arimjhim250@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/file/d/1ON8FhVn_69XBhIXRk6IdhQiWEaUJbIdA/view?usp=sharing)  
 - 🔗 [My Portfolio](https://portfolio-rimjhim.vercel.app/)  
